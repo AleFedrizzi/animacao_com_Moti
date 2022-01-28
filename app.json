@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "cookApp",
+    "slug": "cookApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "cookApp"
+}
