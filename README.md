@@ -24,5 +24,5 @@ Estudo sobre animação **Moti**
 
 
 <div align="center">
-  <small>Alê Fedrizzi, 2022 - Referência e estudo: Animações com Moti no React Native - Code/drops #98 - professor: Rodrigo Gonçalves / RocketSeat</small>
+  <small>Alê Fedrizzi, 2022 - Referência e estudo: Animações com Moti no React Native - Code/drops #98 - professor: Rodrigo Gonçalves / RocketSeat (https://www.youtube.com/watch?v=wb6bHqSQAgc)</small>
 </div>
